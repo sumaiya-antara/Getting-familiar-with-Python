@@ -1,4 +1,4 @@
-# These are positional Arguements.
+# These are positional Arguements
 '''
 def say_hello(name, emoji):
   print(f'Hello {name}{emoji}')
